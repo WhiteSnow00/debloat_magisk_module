@@ -1,2 +1,1 @@
-# For Android 11 To 13
-# MIUI Based
+# For Android 11 To 13 and MIUI Based
